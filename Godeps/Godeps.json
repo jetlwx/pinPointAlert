@@ -1,0 +1,33 @@
+{
+	"ImportPath": "github.com/jetlwx/pinPointAlert",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/bitly/go-simplejson",
+			"Comment": "v0.5.0-8-g0c96595",
+			"Rev": "0c965951289cce37dec52ad1f34200fefc816777"
+		},
+		{
+			"ImportPath": "github.com/jetlwx/comm",
+			"Rev": "89f61b472205868a1839aeed6af840e56a33a501"
+		},
+		{
+			"ImportPath": "github.com/jetlwx/comm/fileAction",
+			"Rev": "89f61b472205868a1839aeed6af840e56a33a501"
+		},
+		{
+			"ImportPath": "github.com/jetlwx/comm/httplib",
+			"Rev": "89f61b472205868a1839aeed6af840e56a33a501"
+		},
+		{
+			"ImportPath": "github.com/jetlwx/comm/weixinAPI",
+			"Rev": "89f61b472205868a1839aeed6af840e56a33a501"
+		},
+		{
+			"ImportPath": "github.com/sebastianwebber/cmdr",
+			"Comment": "0.2.3",
+			"Rev": "eeb8c66183bc659ea38ba83b12480f2bfb8509ba"
+		}
+	]
+}
